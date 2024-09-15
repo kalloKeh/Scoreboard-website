@@ -1,0 +1,78 @@
+@media (max-with: 600px) {
+  p {
+    width: 100px;
+  }
+}
+
+@media (max-width: 600px) {
+  .cont-2,
+  .cont-1 {
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(17, 17, 56);
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    border-radius: 3px;
+  }
+}
+
+@media (max-width: 600px) {
+  .v21,
+  .v22 {
+    font-size: xx-small;
+  }
+}
+
+@media (max-width: 600px) {
+  .vs {
+    font-size: larger;
+    padding-left: 13.5%;
+  }
+}
+
+@media (max-width: 600px) {
+  .c21 {
+    padding-left: 70%;
+  }
+}
+
+@media (max-width: 600px) {
+  .detail-button {
+    background-color: rgb(183, 183, 183);
+    color: black;
+    margin-left: 34%;
+    border: none;
+    width: 120px;
+    height: 20px;
+    border-radius: 5px;
+  }
+}
+
+@media (max-width: 600px) {
+  .ij-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-left: 38%;
+  }
+}
+
+@media (max-width: 600px) {
+  .p1 {
+    margin: 0;
+    font-size: small;
+    margin-left: 39%;
+  }
+}
+
+@media (max-width: 600px) {
+  .p2 {
+    margin: 0;
+    font-size: xx-small;
+    color: blue;
+    margin-left: 41%;
+  }
+}
